@@ -1,0 +1,6 @@
+[submodule "frankenstain-gui"]
+	path = frankenstain-gui
+	url = git@github.com:RanVargas/frankenstain-gui.git
+[submodule "frankenstain-clp"]
+	path = frankenstain-clp
+	url = git@github.com:RanVargas/frankenstain-clp.git
